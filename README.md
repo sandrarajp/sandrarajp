@@ -33,16 +33,37 @@
 
 ---
 
-### 📊 Projects
+---
 
-- **🛍️ Retail & Sales Analytics**  
-  Used Python (Pandas, NumPy, Seaborn) & Power BI to visualize product performance, regional sales trends, and customer segmentation.
+### 🚀 Projects
 
-- **🏥 Healthcare Patient Analytics**  
-  Created Power BI dashboards to track patient inflow, doctor performance, and recovery KPIs to optimize hospital services.
+- 💡 **Fake News Detection using Machine Learning**  
+  Detects misleading news articles using NLP and classification models.  
+  *Tech Stack:* Python, Sklearn, Pandas, Jupyter  
+  [🔗 GitHub Repo](https://github.com/your-username/fake-news-detection)
 
-- **👥 HR Attrition Dashboard**  
-  Built Excel & Power BI visualizations to analyze employee resignations by department, gender, and tenure to support HR strategies.
+- ❤️ **Multiple Disease Prediction System Web App**  
+  Predicts the possibility of diseases like Heart Disease, Parkinson’s, and Diabetes using ML models.  
+  *Tech Stack:* Python, Streamlit, Sklearn  
+  [🔗 GitHub Repo](https://github.com/your-username/multiple-disease-prediction)
+
+- 🎬 **MyNextMovie – Movie Recommendation System**  
+  A personalized movie suggestion engine based on genres and content similarity.  
+  *Tech Stack:* Python, Pandas, Streamlit, Scikit-learn  
+  [🔗 GitHub Repo](https://github.com/your-username/mynextmovie)
+
+- 📊 **Sales Dashboard with Power BI**  
+  Interactive dashboard analyzing sales KPIs and trends.  
+  *Tech Stack:* Power BI, Excel  
+  [🔗 GitHub Repo](https://github.com/your-username/sales-dashboard)
+
+- 📈 **Student Performance Analysis with Tableau**  
+  Visual exploration of student scores across various metrics.  
+  *Tech Stack:* Tableau, Excel  
+  [🔗 GitHub Repo](https://github.com/your-username/student-performance-tableau)
+
+---
+
 
 ---
 
