@@ -38,8 +38,33 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandraraj36&show_icons=true&theme=radical" alt="Sandra's GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandraraj36&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
+---
+
+### 🚀 Projects
+
+- 💡 **Fake News Detection using Machine Learning**  
+  Detects misleading news articles using NLP and classification models.  
+  *Tech Stack:* Python, Sklearn, Pandas, Jupyter  
+  [🔗 GitHub Repo](https://github.com/your-username/fake-news-detection)
+
+- ❤️ **Multiple Disease Prediction System Web App**  
+  Predicts the possibility of diseases like Heart Disease, Parkinson’s, and Diabetes using ML models.  
+  *Tech Stack:* Python, Streamlit, Sklearn  
+  [🔗 GitHub Repo](https://github.com/your-username/multiple-disease-prediction)
+
+- 🎬 **MyNextMovie – Movie Recommendation System**  
+  A personalized movie suggestion engine based on genres and content similarity.  
+  *Tech Stack:* Python, Pandas, Streamlit, Scikit-learn  
+  [🔗 GitHub Repo](https://github.com/your-username/mynextmovie)
+
+- 📊 **Sales Dashboard with Power BI**  
+  Interactive dashboard analyzing sales KPIs and trends.  
+  *Tech Stack:* Power BI, Excel  
+  [🔗 GitHub Repo](https://github.com/your-username/sales-dashboard)
+
+- 📈 **Student Performance Analysis with Tableau**  
+  Visual exploration of student scores across various metrics.  
+  *Tech Stack:* Tableau, Excel  
+  [🔗 GitHub Repo](https://github.com/your-username/student-performance-tableau)
+
+---
