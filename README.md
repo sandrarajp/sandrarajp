@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra Raj P</h1>
-<h3 align="center">A Passionate Data Analyst | BTech CSE | Power BI • SQL • Python</h3>
+<h3 align="center">A Passionate Data Analyst | Power BI ,Tableau, Excel, Python ,SQL | </h3>
 
 - 🌱 I’m currently learning **SQL, Python, Power BI, Tableau, Excel**
 - 🎓 B.Tech in Computer Science Engineering @ SSNIT, KTU
